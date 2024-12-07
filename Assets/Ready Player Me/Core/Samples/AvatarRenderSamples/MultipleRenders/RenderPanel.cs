@@ -11,7 +11,7 @@ namespace ReadyPlayerMe.Samples.AvatarRenders
         [SerializeField] private AvatarRenderSettings renderSettings;
         [SerializeField] private Image image;
                 
-        private void Start()
+        private void Awake()
         {
             var avatarRenderLoader = new AvatarRenderLoader();
             avatarRenderLoader.OnCompleted = SetImage;
