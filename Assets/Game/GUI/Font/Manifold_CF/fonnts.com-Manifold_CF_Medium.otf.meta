@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ca8a4d3b991cd984298665408a2c983f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 160
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Manifold CF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 799ab437fc759f84fbe0244470d0bceb, type: 3}
+  - {fileID: 12800000, guid: 332b4b184c0d8e34da1acaf0ad7d2093, type: 3}
+  - {fileID: 12800000, guid: a17fe1353ea7ceb45b6d720138bbd34f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
